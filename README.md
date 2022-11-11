@@ -44,9 +44,9 @@
 #### 蚁群算法流程图
 image_1
 #### 蚁群算法基本原理介绍
-在算法的初始时刻，将 m 只蚂蚁随机地放到 n座城市，同时，将每只蚂蚁的禁忌表 tabu 的第一个元素设置为它当前所在的城市。此时各路径上的信息素量相等，设     ![图片](https://user-images.githubusercontent.com/117056526/201047634-4b8a716d-b841-41dd-b503-8ac2d2a2a8ee.png)
-      （c 为常数）。
-每只蚂蚁根据路径上残留的信息素量和启发式信息（两城市间的距离）独立地选择下一座城市，在时刻 t，蚂蚁 k 从城市 i 转移到城市 j 的概率          为：
+im_1
+im_2
+im_3
 
 
 
@@ -242,7 +242,9 @@ image_1
 # 运行方式
 
 ## 蚁群算法
-
+```bash
+python src/genetic_algorithm/ants_colony_1.py
+```
 
 
 
@@ -254,6 +256,7 @@ python src/genetic_algorithm/train.py
 # 运行结果
 
 ## 蚁群算法
+最终路径
 
 
 
