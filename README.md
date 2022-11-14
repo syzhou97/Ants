@@ -314,9 +314,9 @@ python src/genetic_algorithm/train.py
 为了更好的展示算法，该实验设置50只蚂蚁数，30座城市，信息素启发因子α=1，期望启发因子β=5，信息素蒸发率ρ=0.5，进行300次迭代
 300次迭代最短路径长度变化趋势以及最终最短路径如下图：
 
-![](./doc/im/result_3.png)
+![](./doc/im/result-3.png)
 
-![](./doc/im/result_4.png)
+![](./doc/im/result-4.png)
 
 
 
